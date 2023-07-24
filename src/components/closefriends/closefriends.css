@@ -1,0 +1,13 @@
+.sidebarfriend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.sidebarfriendimage{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 1rem;
+}
